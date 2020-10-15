@@ -2,10 +2,6 @@
 # Rate 
 rate is API that tracks exchange rates.
 
-DOCs
-1. [Django](https://docs.djangoproject.com/en/2.0/releases/2.0/)
-2. [Django Rest Framework](https://www.django-rest-framework.org/)
-
 Installation
 1. Install git on Linux:  
 `sudo apt-get install -y git`
