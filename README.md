@@ -18,9 +18,9 @@
 `sudo apt-get install -y python3-pip`
 
 4. Create a virtual environment on Linux or Mac:  
-`virtualenv -p python3 ~/.virtualenvs/currency`
+`python3 -m venv  ~/.virtualenvs/flextock`
 5. Activate the virtual environment on Linux or Mac:  
-`source ~/.virtualenvs/currency/bin/activate`
+`source ~/.virtualenvs/flextock/bin/activate`
 
 6. Install requirements in the virtualenv:  
 `pip3 install -r requirements.txt`
