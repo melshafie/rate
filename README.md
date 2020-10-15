@@ -2,19 +2,17 @@
 # Rate 
 rate is API that tracks exchange rates.
 
-Installation
-1. Install git on Linux:  
-`sudo apt-get install -y git`
-2. Clone or download this repo.
 
-3. Create a virtual environment on Linux or Mac:  
+1. Clone or download this repo.
+
+2. Create a virtual environment on Linux or Mac:  
 `python3 -m venv  ~/.virtualenvs/flextock`
-4. Activate the virtual environment on Linux or Mac:  
+3. Activate the virtual environment on Linux or Mac:  
 `source ~/.virtualenvs/flextock/bin/activate`
 
-5. Install requirements in the virtualenv:  
+4. Install requirements in the virtualenv:  
 `pip3 install -r requirements.txt`
-6. Make Django database migrations:
+5. Make Django database migrations:
 `python manage.py makemigrations`
 then: `python manage.py migrate`
 
